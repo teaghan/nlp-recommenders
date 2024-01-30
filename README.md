@@ -5,28 +5,28 @@ Welcome to "NLP Recommenders," a repository dedicated to exploring the intersect
 ## Contents:
 
 1. **[Introduction to Recommender Systems](./RecSys_intro.ipynb)**: 
-   - **Overview**: A deep dive into various methods of recommender systems and foundational approaches to building them.
+   - A deep dive into various methods of recommender systems and foundational approaches to building them.
    
 2. **[Python Tools for Building Recommender Systems](./python_tools.ipynb)**: 
-   - **Toolkit**: A curated list of essential Python tools for constructing efficient and effective recommender systems.
+   - A curated list of essential Python tools for constructing efficient and effective recommender systems.
    
 3. **[Mock Dataset Development for LightFM Example](./lightfm_dataset.ipynb)**: 
-   - **Dataset Creation**: Step-by-step guide on creating a mock dataset specifically designed for use with the LightFM collaborative filtering model.
+   - Step-by-step guide on creating a mock dataset specifically designed for use with the LightFM collaborative filtering model.
    
 4. **[Collaborative Filtering using LightFM](./collaborative_filtering.ipynb)**: 
-   - **Practical Application**: Detailed exploration of collaborative filtering, including an example focused on recommending educational tasks of appropriate difficulty levels to students.
+   - Detailed exploration of collaborative filtering, including an example focused on recommending educational tasks of appropriate difficulty levels to students.
    
 5. **[Mock Dataset Development for PyTorch Recommender Example](./pytorch_dataset.ipynb)**: 
-   - **Dataset Crafting**: Guidance on developing a mock dataset tailored for a recommender system implemented in PyTorch.
+   - Guidance on developing a mock dataset tailored for a recommender system implemented in PyTorch.
    
 6. **[Recommender Systems in PyTorch](./RecSys_PyTorch.ipynb)**: 
-   - **PyTorch Implementation**: Demonstrates the construction of a recommender system in PyTorch, aimed at predicting optimal study time allocation for students across various content types.
+   - Demonstrates the construction of a recommender system in PyTorch, aimed at predicting optimal study time allocation for students across various content types.
    
 7. **[Introduction to Natural Language Processing](./NLP_intro.ipynb)**: 
-   - **NLP Foundations**: Covers general methods and applications of NLP, with a focus on educational tool applications.
+   - Covers general methods and applications of NLP, with a focus on educational tool applications.
    
 8. **[Using the ChatGPT API to Develop a Mock Dataset](./nlp_dataset.ipynb)**: 
-   - **API Integration**: Instructions and insights on utilizing the ChatGPT API to create a mock dataset for NLP applications.
+   - Instructions and insights on utilizing the ChatGPT API to create a mock dataset for NLP applications.
    
-9. **[NLP Development in PyTorch](./nlp_dataset.ipynb)**: 
-   - **NLP Model Building**: Step-by-step tutorial on developing an NLP model in PyTorch capable of predicting the grade level of a given text piece.
+9. **[NLP Development in PyTorch](./NLP_PyTorch.ipynb)**: 
+   - Step-by-step tutorial on developing an NLP model in PyTorch capable of predicting the grade level of a given text piece.
